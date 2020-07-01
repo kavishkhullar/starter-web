@@ -14,4 +14,4 @@ dummy data
 ##how to contribute
 
 
-copyright notice
+copyright notice.all rights reserved
