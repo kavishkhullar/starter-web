@@ -3,6 +3,7 @@
 
 # TEAM
 
+	kavish khullar
     <name> -- <role> -- <twitter>
 
 # THANKS
